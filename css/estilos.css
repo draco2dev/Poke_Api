@@ -1,0 +1,14 @@
+html{ min-height: 100%;}
+
+body{
+    text-align: center;
+    background: radial-gradient(#fff,#0F5FFF);
+}
+
+h2{
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 2px 1px #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+}
